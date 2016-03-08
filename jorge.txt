@@ -13,3 +13,7 @@ __________________________________________
 1.-Elsistema debe de ser facil de usar.
 2.-El sistema debe manejar datos de manera segura.
 3.-El sistema debe estar disponible todo el tiempo.
+
+Concluciones
+__________________________________________
+El sistema esta implementado.
