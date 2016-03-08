@@ -17,3 +17,7 @@ __________________________________________
 Concluciones
 __________________________________________
 El sistema esta implementado.
+
+Informacion de la rama prueba
+__________________________________________
+Esta es una nueva rama del proyecto

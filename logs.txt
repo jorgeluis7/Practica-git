@@ -1,0 +1,29 @@
+commit 21e54cf6cc9033ef6ee663f699e66170dc999ef2
+Author: Jorge Luis <jorgeluis7>
+Date:   Tue Mar 8 10:19:12 2016 -0700
+
+    Conclusiones
+
+commit 73804fd85b8031136f45a315e0d2f1c3837f56c1
+Author: Jorge Luis <jorgeluis7>
+Date:   Mon Mar 7 11:05:36 2016 -0700
+
+    Requisitos no funcionales
+
+commit 69ab6c4d735f19c3d6f55fc8c5f58dc8d13df4d7
+Author: Jorge Luis <jorgeluis7>
+Date:   Mon Mar 7 11:03:55 2016 -0700
+
+    Requisitos funcionales
+
+commit c33c5aff830db453445414f3a3bc300c608f0b33
+Author: Jorge Luis <jorgeluis7>
+Date:   Mon Mar 7 10:59:31 2016 -0700
+
+    Titulo y descripcion del preyecto
+
+commit d7316989e9be2b510aedd5a87385c05443e974c4
+Author: Jorge Luis <jorgeluis7>
+Date:   Mon Mar 7 10:55:39 2016 -0700
+
+    Proyecto en blanco
